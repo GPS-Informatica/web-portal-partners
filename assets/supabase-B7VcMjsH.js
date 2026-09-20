@@ -1,0 +1,1 @@
+import{c as s}from"./supabase-dIChsWQP.js";const t="https://scbdegxipurudzrpqhpz.supabase.co",e="sb_publishable_l0zo6t5TVFylHmLOtPTh5Q_XlqKnsWE",o="partner-docs",c="partner-resources",p=s(t,e);export{o as BUCKET,c as RESOURCES_BUCKET,p as supabase};
